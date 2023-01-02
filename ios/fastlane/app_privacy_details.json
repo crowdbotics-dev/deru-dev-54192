@@ -1,0 +1,20 @@
+[
+    {
+        "category": "NAME",
+        "purposes": [
+            "APP_FUNCTIONALITY"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "EMAIL_ADDRESS",
+        "purposes": [
+            "DEVELOPERS_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    }
+]
